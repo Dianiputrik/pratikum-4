@@ -1,8 +1,8 @@
 # pratikum-4
-pemrograman web
-Nama  : Diani putri kusumaningrum
-Nim : 311910803
-Kelas : TI.19.B2
+# pemrograman web
+# Nama  : Diani putri kusumaningrum
+# Nim : 311910803
+# Kelas : TI.19.B2
 1.) membuat layout about
 ![abouthtml1](https://user-images.githubusercontent.com/81963657/115135806-3a417080-9fbb-11eb-90d7-e2b0e6a4c61b.PNG)
 FILE CSS menu About
